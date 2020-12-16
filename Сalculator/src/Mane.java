@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Mane { //V2
+public class Mane {
     public static void main(String[] args) {
         while (true){
 
